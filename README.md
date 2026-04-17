@@ -2,6 +2,9 @@
 
 This project is an Excel-based tool designed to estimate air conditioning (HVAC) cooling load and recommend appropriate BTU capacity based on room conditions.
 
+## Project Link
+Google Sheets Version: [(https://docs.google.com/spreadsheets/d/1aKfC7NBQyFOCntH26d6fwGys2YizrB_nM7zFbEKhBl0/edit?usp=sharing)]
+
 ## Features
 - Input room size, ceiling height, and number of occupants
 - Automatic cooling load calculation
